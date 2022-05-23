@@ -1,0 +1,26 @@
+﻿  AIGame.cpp
+  Game.cpp
+c:\users\плак\source\repos\sfml_chess\sfml_test\sfml_chess\game.cpp(129): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\плак\source\repos\sfml_chess\sfml_test\sfml_chess\game.cpp(137): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\плак\source\repos\sfml_chess\sfml_test\sfml_chess\game.cpp(145): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\плак\source\repos\sfml_chess\sfml_test\sfml_chess\game.cpp(158): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  VictoryGame.cpp
+  Создание кода...
+  SFML_chess.vcxproj -> C:\Users\плак\source\repos\SFML_chess\SFML_test\x64\Debug\SFML_chess.exe

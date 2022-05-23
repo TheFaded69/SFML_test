@@ -1,0 +1,7 @@
+﻿  AIGame.cpp
+  Game.cpp
+c:\users\плак\source\repos\sfml_chess\sfml_chess\game.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+c:\users\плак\source\repos\sfml_chess\sfml_chess\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  VictoryGame.cpp
+c:\users\плак\source\repos\sfml_chess\sfml_chess\victorygame.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
